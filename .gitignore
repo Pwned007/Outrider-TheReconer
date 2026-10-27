@@ -1,0 +1,6 @@
+# Outrider scan output — never commit real target data
+outrider-*/
+
+# Misc
+*.log
+.DS_Store
